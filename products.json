@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1764261281510,
+    "title": "l",
+    "category": "eje",
+    "description": "x",
+    "power": "",
+    "price": "",
+    "imageUrl": "/uploads/1764261281506-259082433.jpg"
+  },
+  {
+    "id": 1764263451857,
+    "title": "hola",
+    "category": "d",
+    "description": "d",
+    "power": "ddd",
+    "price": "rd.82",
+    "images": [
+      "/uploads/1764263451853-134337993.jpg"
+    ],
+    "imageUrl": "/uploads/1764263451853-134337993.jpg"
+  },
+  {
+    "id": 1764264042434,
+    "title": "d",
+    "category": "dd",
+    "description": "d",
+    "power": "dd",
+    "price": "5",
+    "images": [
+      "/uploads/1764264042428-594475548.jpg"
+    ],
+    "imageUrl": "/uploads/1764264042428-594475548.jpg"
+  }
+]
